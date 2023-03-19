@@ -1,0 +1,64 @@
+body{
+    background-image:url(https://images8.alphacoders.com/109/1098350.jpg);
+    background-repeat:no-repeat;
+    
+    line-height:1.5;
+    color:white;
+    
+}
+h1{
+    Color:blue;
+    Font-size:80px;
+    Font-family:'Rubik Iso', cursive;
+}
+p{
+    color:white;
+    text-align:center;
+}
+h2{
+    color:white;
+
+}
+main{
+    background-color:rgba(0,0,0,0.6);
+    padding:5px 40px;
+    margin-top:20px;
+    border-radius:10px;
+}
+
+.logo, .headline{
+    color:white;
+    margin:0;
+    text-align:center;
+}
+.manchete{
+    color:white;
+    margin:0;
+    text-align:center;
+}
+
+.video{
+    margin:0;
+    text-align:center;
+}
+article{
+    text-align:center;
+    font-style: normal;
+    font-size:20px;
+    color rgb(250,200,225);
+
+}
+.Kitotto{
+    background-image:url(https://images8.alphacoders.com/109/1098350.jpg);
+    margin:30px;
+    text-align:center;
+    width:100%;
+
+}
+.Kitotto table{
+    background:black;
+    border-radius:10px;
+    padding:10px;
+    margin:0 auto;
+
+}
